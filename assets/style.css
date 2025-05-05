@@ -94,21 +94,24 @@ body {
   }
   
   #about-me h1 {
-    font-size: 65px;
-    margin-top: 90px;
+    font-size: 50px;
+    margin: 50px;
     color: #7600bc;
   }
   
   #about-me p {
-    font-size: 25px;
+    font-size: 15px;
     color: rgb(61, 28, 115);
-    margin-top: -1cm;
+    margin-top:1px;
   }
   
   .profile_image {
-    width: 400px;
+    width: 150px;
     vertical-align: center;
     margin: 3px;
+    margin: 25px;
+    border-radius: 50%;
+    margin-top: 60px;
   }
   
   /* Skills */
@@ -156,7 +159,7 @@ body {
     align-items: center;
     justify-content: center;
   }
-  
-  .profile-pic{
-    width:100%;
+
+  h1{
+    margin-bottom: 0px;
   }
